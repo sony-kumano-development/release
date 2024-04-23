@@ -1,0 +1,13 @@
+{
+    "kernel": {
+      "name": "chihayaburu-su",
+      "version": "11682",
+      "link": "https://sourceforge.net/projects/kiso-dev/files/sony/bahamut/chybrsu/chihayaburu-su-bahamut-202404231944.zip/download",
+      "changelog_url": "https://raw.githubusercontent.com/sony-kumano-development/release/main/kernel/changelog",
+      "date": "2024-04-23",
+      "sha1": "be643203197bee9d8518a3d87e6c816a8c08e68a"
+    },
+    "support": {
+      "link": ""
+    }
+  }
