@@ -1,11 +1,11 @@
 {
     "kernel": {
       "name": "chihayaburu-su",
-      "version": "11682",
-      "link": "https://sourceforge.net/projects/kiso-dev/files/sony/griffin/chybrsu/chihayaburu-su-griffin-202404231957.zip/download",
+      "version": "11820",
+      "link": "https://sourceforge.net/projects/kiso-dev/files/sony/griffin/chybrsu/chihayaburu-su-griffin-202404301343.zip/download",
       "changelog_url": "https://raw.githubusercontent.com/sony-kumano-development/release/main/kernel/changelog",
-      "date": "2024-04-23",
-      "sha1": "422f6fa42faa60014ffb566b9cb2d526bf2b39b5"
+      "date": "2024-04-30",
+      "sha1": "f7b8e4052acdf03ccc03bba2da9fd542836180ba"
     },
     "support": {
       "link": ""
